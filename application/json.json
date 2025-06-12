@@ -1,0 +1,7 @@
+{
+    "success": true,
+    "images": [
+        {"id": 101, "path": "uploads/additional_image1.jpg"},
+        {"id": 102, "path": "uploads/additional_image2.png"}
+    ]
+}
