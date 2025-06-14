@@ -1,5 +1,6 @@
 {
     "name": "karlido/gonewaistless",
     "description": "Your project description",
+    "license": "Apache-2.0", 
     "require": {}
 }
