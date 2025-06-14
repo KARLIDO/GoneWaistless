@@ -6,8 +6,8 @@ $username = 'gonewaistlessco_karl';
 $password = 'tadiwanashe2';
 
 // PayFast Configuration
-define('PAYFAST_MERCHANT_ID', '11396923');
-define('PAYFAST_MERCHANT_KEY', 'lvogh401laeea');
+define('PAYFAST_MERCHANT_ID', '********');
+define('PAYFAST_MERCHANT_KEY', '*************');
 
 // Enable error reporting for development
 error_reporting(E_ALL);
