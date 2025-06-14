@@ -1,9 +1,9 @@
 <?php
 // Database Configuration
 $host = 'localhost';
-$dbname = 'gonewaistlessco_gw';
-$username = 'gonewaistlessco_karl';
-$password = 'tadiwanashe2';
+$dbname = '************';
+$username = '*************';
+$password = '***********';
 
 // PayFast Configuration
 define('PAYFAST_MERCHANT_ID', '********');
