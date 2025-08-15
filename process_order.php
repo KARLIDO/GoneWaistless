@@ -41,8 +41,8 @@ $stmt->execute([$order_id, $name, $email, $total_amount]);
 
 
 // PayFast parameters (These would typically be stored in a config file and NOT in client-side JS)
-$merchant_id = '11396923'; // REPLACE WITH YOUR ACTUAL MERCHANT ID
-$merchant_key = 'lvogh401laeea'; // REPLACE WITH YOUR ACTUAL MERCHANT KEY
+$merchant_id = '********'; // REPLACE WITH YOUR ACTUAL MERCHANT ID
+$merchant_key = '*************'; // REPLACE WITH YOUR ACTUAL MERCHANT KEY
 
 $payfast_params = [
     'merchant_id' => $merchant_id,
